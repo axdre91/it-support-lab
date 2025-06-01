@@ -1,3 +1,6 @@
+## 🖼️ Architecture Diagram
+
+![IT Support Lab Architecture](‎IT_Lab_Architecture.drawio (1).png)
 # it-support-lab
 Basic IT Support Lab: ServiceNow, AWS, EC2, Active Directory
 # IT Support / Help Desk Lab
