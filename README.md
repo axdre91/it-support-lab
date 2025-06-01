@@ -1,7 +1,3 @@
-## 🖼️ Architecture Diagram
-
-![IT Lab Architecture](IT_Lab_Architecture.drawio%20(1).png)
-
 # it-support-lab
 Basic IT Support Lab: ServiceNow, AWS, EC2, Active Directory
 # IT Support / Help Desk Lab
@@ -16,6 +12,9 @@ This project documents the steps I followed to complete a basic Help Desk / IT S
 - **Amazon Web Services (AWS)** – for provisioning a virtual machine (EC2)
 - **Windows Server** – for Active Directory configuration
 - **Remote Desktop** – to connect to EC2 instance
+- ## 🖼️ Architecture Diagram
+
+![IT Lab Architecture](IT_Lab_Architecture.drawio%20(1).png)
 
 ---
 
