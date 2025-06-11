@@ -1,7 +1,7 @@
 ## 🎥 Demo Videos
 
-- [Loom Video 1: Ticket creation + VM Setup + Active Directory](loom.com/share/46c417b867e94d9cba36b4fe9e71f469)
-- [Loom Video 2: Reset user passwprd](loom.com/share/77f46e081a414d9895251d11b7ac2dac)
+- [Loom Video 1: Ticket creation + VM Setup + Active Directory](https://loom.com/share/46c417b867e94d9cba36b4fe9e71f469)
+- [Loom Video 2: Reset user passwprd](https://loom.com/share/77f46e081a414d9895251d11b7ac2dac)
 # it-support-lab
 Basic IT Support Lab: ServiceNow, AWS, EC2, Active Directory
 # IT Support / Help Desk Lab
